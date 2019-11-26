@@ -1,0 +1,12 @@
+geoip {
+  target => "client_geoip"
+  source => {"x_forward_for"}
+}
+geoip => {
+  target => "geoip"
+  source => ["clientip"]
+}
+
+"x_forwarded_for" => "54.199.175.180"
+
+

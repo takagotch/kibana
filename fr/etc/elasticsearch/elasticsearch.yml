@@ -1,0 +1,6 @@
+cluster.name: kibana-es
+node.name: node-es1
+network.host: 0.0.0.0
+discoverty.zen.minimum_master_node: 1
+
+

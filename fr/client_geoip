@@ -1,0 +1,22 @@
+"client_geoip" => {
+  "ip" => "54.199.175.180",
+  "country_code2" => "US",
+  "country_code3" => "USA",
+  "country_name" => "United States",
+  "countinent_code" => "NA",
+  "region_name" => "NJ",
+  "city_name" => "Woodridge",
+  "postal_code" => "07095",
+  "latitude" => 40.55250000000001,
+  "longitude" => -74.2915,
+  "dma_code" => 501,
+  "are_code" => 732,
+  "timezone" => "America/New_York",
+  "real_region_name" => "New Jersey",
+  "location" => [
+    [] -74.2915,
+    [] 40.5525000000001
+  ],
+}
+
+
